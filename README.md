@@ -5,6 +5,6 @@
 - 🔭 I am open to any  project
 - 🌱 I’m currently learning advanced react functionalities
 - 👯 I’m looking to collaborate
-- 📫 How to reach me: +2347045337629 or my portfolio @ hhtps://mavdavis.netlify.app
+- 📫 ContactMe: +2347045337629 ~ https://mavdavis.netlify.app
 - 😄 Pronouns: ...my profile image says it all, or doesn't it?
 
