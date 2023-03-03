@@ -6,5 +6,4 @@
 - 🌱 I’m currently learning advanced react/nuxt/vue API
 - 👯 I’m looking to collaborate
 - 📫 ContactMe: +2347045337629 ~ https://mavdavis.netlify.app
-- 😄 Pronouns: ...my profile image says it all, or doesn't it?
 
