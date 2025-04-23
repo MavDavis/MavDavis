@@ -1,5 +1,5 @@
 🚀 Hi, I’m Mavdavids — your go-to for dev solutions that just work.
-👨‍💻 Whether it’s untangling a tricky legacy codebase, optimizing a Vue.js frontend, or jumping into a fast-paced codebase with zero hand-holding, I thrive on helping teams solve problems fast and well.
+👨‍💻 Whether it’s untangling a tricky legacy codebase, optimizing a frontend application, or jumping into a fast-paced codebase with zero hand-holding, I thrive on helping teams solve problems fast and well.
 
 💡 I don't just write code — I ask the why, simplify the how, and always chase the better. You’ll usually find me diving into fresh programming patterns, or mentoring teammates through messy bugs (with coffee in hand ☕).
 
