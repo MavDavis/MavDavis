@@ -3,7 +3,7 @@
 
 💡 I don't just write code — I ask the why, simplify the how, and always chase the better. You’ll usually find me diving into fresh programming patterns, or mentoring teammates through messy bugs (with coffee in hand ☕).
 
-🛠️ Currently expanding into Machine Learning with Python — because great developers are always stretching their limits.
+🛠️ Currently expanding into Smart contract development and Machine Learning with Python — because great developers are always stretching their limits.
 
 📬 Need someone who can step in, understand your system quickly, and start making a difference from week one?
 
